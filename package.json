@@ -1,0 +1,19 @@
+{
+  "name": "extra-assert",
+  "version": "0.0.1",
+  "description": "extra assert from html",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiechuanlong/extra-assert.git"
+  },
+  "author": "xiechuanlong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiechuanlong/extra-assert/issues"
+  },
+  "homepage": "https://github.com/xiechuanlong/extra-assert#readme"
+}
