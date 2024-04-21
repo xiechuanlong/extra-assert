@@ -1,0 +1,27 @@
+{
+  "name": "extra-assert",
+  "version": "0.0.2",
+  "description": "extra assert from html",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --config ./build/webpack.base.config.js --env=dev --watch-stdin --progress",
+    "build": "webpack --config ./build/webpack.base.config.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.39.0",
+    "webpack-cli": "^3.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiechuanlong/extra-assert.git"
+  },
+  "author": "xiechuanlong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiechuanlong/extra-assert/issues"
+  },
+  "homepage": "https://github.com/xiechuanlong/extra-assert#readme"
+}
